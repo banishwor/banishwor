@@ -4,50 +4,50 @@ Software developer from Manipur, India 🇮🇳 passionate about building practi
 
 ## 🚀 Featured Projects
 
-### 📅 Manipuri Calendar (Android)
-Native Android app for the Manipuri calendar with offline support.
+### 📅 Manipuri Calendar
+Offline Android calendar for the Manipuri community.
 
-📱 https://play.google.com/store/apps/details?id=com.manipurcalendar
-
----
-
-### 🌐 Manipuri Calendar (PWA)
-A fast, installable web version of the Manipuri Calendar.
-
-🌍 https://banishwor.github.io/manipuri-calendar-pwa
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](...)
+[![PWA](https://img.shields.io/badge/PWA-Live-blue?logo=google-chrome)](...)
 
 ---
 
 ### 🌳 Yek Salai – Meitei Clan
-Explore Meitei clans (Yek Salai), lineages, and traditional information.
 
-📱 https://play.google.com/store/apps/details?id=com.yeksalaiapp
+Explore Meitei clans and lineages.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](...)
 
 ---
 
 ### 🧮 Manipur Calculator
-A comprehensive toolkit featuring traditional Manipuri land and gold unit conversions alongside modern financial calculators.
 
-📱 https://play.google.com/store/apps/details?id=com.manipurcalculator.app
+Traditional Manipuri unit conversions and financial calculators.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](...)
 
 ---
+## 🌐 Websites & Blogs
 
 ### ✅ Advanced Yek Salai Eligibility Checker
-Determine traditional clan compatibility through an interactive web application.
+Check traditional Meitei clan (Yek Salai) eligibility through an interactive web application.
 
-🌍 https://banishwor.github.io/yek-salai-website/
+[![Open Website](https://img.shields.io/badge/Open_Website-Visit-blue?style=for-the-badge&logo=googlechrome)](https://banishwor.github.io/yek-salai-website/)
 
 ---
 
-### 📖 Bani
-Articles about Meitei history, heritage, literature, folklore, and indigenous culture.
+### 📖 Bani – Meitei Heritage Blog
+Articles on Meitei history, culture, folklore, literature, and indigenous heritage.
 
-✍️ https://baniat.blogspot.com/
+[![Read Blog](https://img.shields.io/badge/Blogger-Read-orange?style=for-the-badge&logo=blogger)](https://baniat.blogspot.com/)
 
 ---
 
 ### 👨‍👩‍👧‍👦 Athokpam Family Tree
-A genealogy project documenting and preserving the Athokpam family lineage using modern web technologies.
+An interactive digital family tree preserving the lineage and history of the Athokpam family.
+
+[![Open Website](https://img.shields.io/badge/Family_Tree-Explore-success?style=for-the-badge&logo=github)](https://banishwor.github.io/AthokpamFamilyTree/)
+
 
 ## 💻 Tech Stack
 
